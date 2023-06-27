@@ -1,0 +1,6 @@
+This was a project done for Advanced Programming in C
+
+The objective was to create a working game where the Ice Man can move and interact with various objects in the game.
+We were provided the skeleton (i.e. the sprites, GUI, the World without the ice added) and were tasked with adding various objects to the game
+
+This was a test in applying what we learned during the semester and also how to work with a partner. The partner I was paired with did not know English very well, so there was also a language barrier there. I took on the role of project leader. This meant I had to guage what and how to achieve tasks. We often would set a date on how far we think we should be at a given date. While my partner was also not the strongest coder, we would often sit together and try to come up with solutions together. This project taught me more on how to cooperate with people more than anything, and cemented my eagerness to become a software dveloper.
